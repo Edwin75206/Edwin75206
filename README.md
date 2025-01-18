@@ -19,26 +19,3 @@ About Me 👋<br>Hi there! I’m a 22-year-old Software Development Engineering 
 ---
 [![](https://visitcount.itsvg.in/api?id=Edwin75206&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg) MySQL  
-![MongoDB](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg) MongoDB  
-
-### Game Development
-![Unity](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg) Unity  
-![Blender](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg) Blender  
-
-### Design
-![Photoshop](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg) Photoshop  
-![Illustrator](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg) Illustrator  
-![XD](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg) XD  
-![After Effects](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg) After Effects  
-![Premiere Pro](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg) Premiere Pro  
-
-## 🌐 Socials
-[![Facebook](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg)](https://www.facebook.com/EdwinDonovan)  
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/Edwin75206)  
-[![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](https://www.instagram.com/edwin_donovan)  
-
-## 🎮 Snake Game Animation
-Aquí tienes una animación del juego de la serpiente, ¡como si fuera una racha de contribuciones de GitHub!
-
-![Snake Game Animation](https://raw.githubusercontent.com/Edwin75206/snake-game/main/snake-game.gif)

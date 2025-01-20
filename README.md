@@ -3,6 +3,9 @@
 About Me 👋<br>Hi there! I’m a 22-year-old Software Development Engineering student at the Universidad Tecnológica de Xicotepec de Juárez (UTXJ). I’m passionate about technology, audiovisual production, and developing innovative solutions.<br><br>🛠️ Skills<br>Programming: PHP, HTML, CSS, JavaScript, TypeScript, Java, Python, C#, C++.<br>Frameworks: Angular, Bootstrap.<br>Databases: MySQL, MongoDB.<br>Software Development: Design of mobile and web applications, with experience in Unity for augmented reality projects and 2D video games, and proficiency with Xcode for iOS development.<br>Virtual Reality: Developed projects in Unity using Meta headsets to create immersive experiences.<br>3D Modeling: Skilled in using Blender for designing and creating 3D models.<br>Audiovisual Production: Advanced proficiency with tools like DaVinci Resolve, Adobe Premiere, Adobe XD, Illustrator, Photoshop, After Effects, and Lightroom.<br>Languages: Native Spanish speaker, intermediate English (learning since Fall 2023).
 
 
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004152224860) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edwin_donovan) 
 
